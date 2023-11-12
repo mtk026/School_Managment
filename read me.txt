@@ -1,0 +1,9 @@
+This  is a school management prooramme 
+you can add teacher Id, name, Password, Lecture
+you can delete teachers 
+or you can update teacher's informations
+It ıs a swing project 
+ we contınue develope this project so some panels do not run now
+you use teacher panel Tc passWord: 1234 you can connect MySQL database (localhost)  
+
+enjoy it
